@@ -13,4 +13,4 @@
 ----------------
 ## hate languages
 ----------------
-1. Java <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbSV6cj%2FbtqGyJ5fpVF%2FvTEjIKZtaGARh6qQdHzHIK%2Fimg.png" width="25" height="25"/> (Why do you have tears in your eyes?)
+1. Java <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbSV6cj%2FbtqGyJ5fpVF%2FvTEjIKZtaGARh6qQdHzHIK%2Fimg.png" width="25" height="25"/> (Why do you have tears in my eyes?)
