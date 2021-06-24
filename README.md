@@ -4,4 +4,4 @@
 
 ## I love lang!
 
-1. python ![image](https://user-images.githubusercontent.com/80574663/123269790-46f1c000-d53a-11eb-896b-411af646fa40.png | width: 200px)
+1. python <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png" width="50" height="50"/>
