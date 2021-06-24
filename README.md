@@ -1,5 +1,5 @@
-### YOOOOOO Wassup!
-### My name is 'suhong'!
+### YOOOOOO Wassup! 🤩🤩
+### My name is 'suhong'! 🎇🎇
 ---------------
 
 ## favorite languages
